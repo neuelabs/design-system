@@ -1,0 +1,390 @@
+{
+  "_class": "page",
+  "do_objectID": "D802EA4B-2F06-4F55-B0CE-1F7EE6FF7B9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [{
+    "_class": "artboard",
+    "do_objectID": "78AB2D2E-1F17-4A74-B7A2-0DF7EFE506B9",
+    "exportOptions": {
+      "_class": "exportOptions",
+      "exportFormats": [],
+      "includedLayerIds": [],
+      "layerOptions": 0,
+      "shouldTrim": false
+    },
+    "frame": {
+      "_class": "rect",
+      "constrainProportions": false,
+      "height": 425,
+      "width": 1200,
+      "x": -571,
+      "y": -362
+    },
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 2,
+    "name": "input",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": true,
+    "style": {
+      "_class": "style",
+      "endDecorationType": 0,
+      "miterLimit": 10,
+      "startDecorationType": 0
+    },
+    "hasClickThrough": true,
+    "layers": [{
+      "_class": "symbolInstance",
+      "do_objectID": "319FD1DA-A7AA-4550-B582-715581FDD9DE",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 180,
+        "width": 1200,
+        "x": 0,
+        "y": 0
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "ds \/ header",
+      "nameIsFixed": false,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "horizontalSpacing": 0,
+      "overrideValues": [{
+        "_class": "overrideValue",
+        "do_objectID": "7DDA8400-F75C-406A-83CA-F4D30EE20055",
+        "overrideName": "4B685309-F611-45D9-9D51-45E16E1AE527_stringValue",
+        "value": "inputs"
+      }],
+      "scale": 1,
+      "symbolID": "CD608251-2781-4664-8EC1-83A1636E0991",
+      "verticalSpacing": 0
+    }, {
+      "_class": "symbolInstance",
+      "do_objectID": "9EE1E560-8763-40C0-B342-9EAA8A6F947B",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 88,
+        "width": 200,
+        "x": 120,
+        "y": 236
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "ui \/ input \/ placeholder",
+      "nameIsFixed": false,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "horizontalSpacing": 0,
+      "overrideValues": [],
+      "scale": 1,
+      "symbolID": "91752382-3576-4DAE-8BE8-AE73FDC2E80D",
+      "verticalSpacing": 0
+    }, {
+      "_class": "symbolInstance",
+      "do_objectID": "574B448B-233C-4208-934C-1BB3E25568F8",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 64,
+        "width": 200,
+        "x": 120,
+        "y": 136
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "ui \/ input \/ default",
+      "nameIsFixed": false,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "horizontalSpacing": 0,
+      "overrideValues": [],
+      "scale": 1,
+      "symbolID": "18DEAC1F-6494-4E79-A8BD-3220707FD1A9",
+      "verticalSpacing": 0
+    }, {
+      "_class": "symbolInstance",
+      "do_objectID": "1F9EC1CB-5E10-495F-BAB2-C3805E93E0A8",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 88,
+        "width": 200,
+        "x": 336,
+        "y": 236
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "ui \/ input \/ value",
+      "nameIsFixed": false,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "horizontalSpacing": 0,
+      "overrideValues": [],
+      "scale": 1,
+      "symbolID": "5309E8A8-DA2A-4F8D-96F7-2B175E7C9722",
+      "verticalSpacing": 0
+    }, {
+      "_class": "symbolInstance",
+      "do_objectID": "87245211-5043-4AF6-90B8-B6B0AD123EA2",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 88,
+        "width": 200,
+        "x": 552,
+        "y": 236
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "ui \/ input \/ error",
+      "nameIsFixed": false,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "horizontalSpacing": 0,
+      "overrideValues": [],
+      "scale": 1,
+      "symbolID": "A4C70655-33C6-4683-99AE-E54C3AF59469",
+      "verticalSpacing": 0
+    }, {
+      "_class": "symbolInstance",
+      "do_objectID": "9B5916E5-F893-4C05-A717-5BDAD4E3F901",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 88,
+        "width": 200,
+        "x": 768,
+        "y": 236
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "ui \/ input \/ disabled",
+      "nameIsFixed": false,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "horizontalSpacing": 0,
+      "overrideValues": [],
+      "scale": 1,
+      "symbolID": "8007549A-67E2-49AF-95ED-6895C19961A7",
+      "verticalSpacing": 0
+    }],
+    "backgroundColor": {
+      "_class": "color",
+      "alpha": 1,
+      "blue": 1,
+      "green": 1,
+      "red": 1
+    },
+    "hasBackgroundColor": false,
+    "horizontalRulerData": {
+      "_class": "rulerData",
+      "base": 0,
+      "guides": []
+    },
+    "includeBackgroundColorInExport": true,
+    "includeInCloudUpload": true,
+    "isFlowHome": false,
+    "layout": {
+      "_class": "layoutGrid",
+      "isEnabled": false,
+      "columnWidth": 50,
+      "drawHorizontal": false,
+      "drawHorizontalLines": false,
+      "drawVertical": true,
+      "gutterHeight": 12,
+      "gutterWidth": 32.72727272727273,
+      "guttersOutside": false,
+      "horizontalOffset": 120,
+      "numberOfColumns": 12,
+      "rowHeightMultiplication": 5,
+      "totalWidth": 960
+    },
+    "presetDictionary": {
+      "allowResizedMatching": 0,
+      "offersLandscapeVariant": 0,
+      "width": 1440,
+      "height": 1024,
+      "name": "Desktop HD"
+    },
+    "resizesContent": false,
+    "verticalRulerData": {
+      "_class": "rulerData",
+      "base": 0,
+      "guides": []
+    }
+  }],
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -567,
+    "guides": []
+  },
+  "includeInCloudUpload": true,
+  "layout": {
+    "_class": "layoutGrid",
+    "isEnabled": false,
+    "columnWidth": 50,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 220,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -380,
+    "guides": []
+  }
+}

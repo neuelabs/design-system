@@ -1,0 +1,234 @@
+{
+  "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "pagesAndArtboards": {
+    "81644E8C-F0E1-4405-A151-2EF4B4FFA58D": {
+      "name": "Symbols",
+      "artboards": {
+        "FAF480B7-FE40-4F7E-9594-8817CD42EA3D": {
+          "name": "colors \/ white"
+        },
+        "7C974524-34E7-4DA5-A82C-79E28D29C168": {
+          "name": "ui \/ badge \/ subtle-yellow"
+        },
+        "2A26C04D-4975-4716-9A79-048B4D0C8241": {
+          "name": "ui \/ badge-dot"
+        },
+        "5C5FF161-03F8-4EB7-BF68-0EB914F6AE78": {
+          "name": "ui \/ avatar \/ medium"
+        },
+        "DDE42ACE-B40C-446A-B0C1-8674784840D9": {
+          "name": "ui \/ badge \/ subtle-primary"
+        },
+        "7F8505AA-ADCB-41F0-B6E1-EAD6DF32D728": {
+          "name": "ui \/ badge \/ subtle-green"
+        },
+        "12F41F5C-C6D2-4ACD-8F72-CA2009A589F3": {
+          "name": "colors \/ primary"
+        },
+        "C8087800-392E-4561-A228-D7EE3690B489": {
+          "name": "ui \/ input \/ error"
+        },
+        "0B9286CD-90AF-452B-A2BC-5BF2797EF2C6": {
+          "name": "ui \/ badge \/ default"
+        },
+        "54AC79D7-E6C1-4AEA-A11A-89F56E8CBDD3": {
+          "name": "ui \/ button \/ disabled"
+        },
+        "FA753EF4-897E-4DCC-9B95-BA857C700886": {
+          "name": "ui \/ badge \/ standard"
+        },
+        "4096271D-330E-44F7-9336-D6F6CD217DEC": {
+          "name": "colors \/ y300"
+        },
+        "46F0972B-3B6B-4129-A927-1D41DC07C18E": {
+          "name": "ui \/ input \/ placeholder"
+        },
+        "84844F6A-EC1A-4200-A666-5021AAEC3FEB": {
+          "name": "ui \/ button \/ link \/ small"
+        },
+        "3C03445F-F0E8-44B9-9FB9-B5A93F9CEF28": {
+          "name": "ui \/ button \/ yellow \/ default"
+        },
+        "E52E7392-E1ED-46F8-AB82-6FBE299FCD55": {
+          "name": "ui \/ button \/ primary \/ active"
+        },
+        "4FDE2739-F2EA-41B7-94D2-4F04C1DDD33E": {
+          "name": "ui \/ avatar \/ micro"
+        },
+        "D6B75D51-2CB8-4A74-BD81-61E0F016C092": {
+          "name": "colors \/ black"
+        },
+        "80298918-64CE-4FD3-BFBD-0BB0534B10E2": {
+          "name": "ui \/ badge \/ yellow"
+        },
+        "FE3D8361-FC66-41A6-8632-15F940316D70": {
+          "name": "colors \/ n30"
+        },
+        "E5E34822-FEC4-4A46-8FB6-EC9B39BDF396": {
+          "name": "ui \/ avatar \/ x-large"
+        },
+        "A7D6C063-062F-407F-BAD1-2EC1F62B9E59": {
+          "name": "ui \/ button \/ link \/ default"
+        },
+        "0F4366A7-D48B-4AD5-B060-A177A26F0BC6": {
+          "name": "ui \/ button \/ primary \/ small"
+        },
+        "16CFEF3E-DC63-4701-935B-D4871590FFA3": {
+          "name": "ui \/ button \/ standard \/ active"
+        },
+        "513DAEF7-AF8D-4A32-BD5F-A33BDE1B882B": {
+          "name": "colors \/ g300"
+        },
+        "79D3C293-F2E9-49A3-8EE9-D79B176CF136": {
+          "name": "ui \/ button \/ yellow \/ active"
+        },
+        "44FD59BC-2217-4CBF-832E-A309A4A9F795": {
+          "name": "ui \/ button \/ link \/ active"
+        },
+        "6BA98EFB-59E7-411C-BC9E-EE613B79DC51": {
+          "name": "ui \/ input \/ value"
+        },
+        "BFDC4FB8-3207-4B45-99B1-1CC03CE3014D": {
+          "name": "ui \/ badge \/ subtle-standard"
+        },
+        "34E543DF-93DF-409B-BE4A-A1FACDAD783C": {
+          "name": "colors \/ r300"
+        },
+        "C8FB68FC-408E-4563-9927-34D13D034208": {
+          "name": "ui \/ button \/ yellow \/ hover"
+        },
+        "9F173975-DDDB-4122-A26E-8DA9F025D4C0": {
+          "name": "ui \/ button \/ red \/ hover"
+        },
+        "25BDB5F1-A029-408F-88E6-EB17DB79B930": {
+          "name": "ui \/ button \/ red \/ active"
+        },
+        "732CA4D5-86ED-43C1-92BC-97CCF41B66B9": {
+          "name": "ui \/ avatar \/ small"
+        },
+        "11A9A3AF-4385-445B-8EA8-B2655CBCAFC1": {
+          "name": "ui \/ button \/ standard \/ hover"
+        },
+        "A35D3AB1-087B-419F-B3AD-940C9662E650": {
+          "name": "ui \/ badge \/ red"
+        },
+        "C5ACEEA7-BA6A-4237-8E37-717D7DB79525": {
+          "name": "ui \/ avatar \/ large"
+        },
+        "0328B3B9-5C0B-4848-A7B6-AC3C6769C0E5": {
+          "name": "ui \/ button \/ primary \/ large"
+        },
+        "47E94DB5-3E57-4B35-A8E4-70F2F0D86716": {
+          "name": "ui \/ button \/ standard \/ default"
+        },
+        "AB8C8EFE-AA64-4FC1-8D1E-4AB2CA139637": {
+          "name": "ds \/ header"
+        },
+        "C9E3E12C-9048-41B3-ACAB-31FC382DBC4E": {
+          "name": "ui \/ button \/ red \/ default"
+        },
+        "1D009978-F926-4ECF-84C7-815ACF945806": {
+          "name": "ui \/ badge \/ subtle-red"
+        },
+        "4D4E6C9B-9B9E-4D00-A95F-B7F925D83EB0": {
+          "name": "ui \/ input \/ disabled"
+        },
+        "A65D4F01-0A9E-4D16-99D3-EE40D98C6DE2": {
+          "name": "ui \/ button \/ link \/ hover"
+        },
+        "CB6044F4-F1B7-415C-BC8A-59A5C02F4D7A": {
+          "name": "ui \/ badge \/ primary"
+        },
+        "6B7BBCA0-8297-4D91-89B6-EA30AE36BE3F": {
+          "name": "ui \/ badge \/ green"
+        },
+        "8BCC5B4A-3FB1-4E1A-89F5-272B6E8AC23D": {
+          "name": "ui \/ input \/ default"
+        },
+        "46284C1C-B6D1-4E35-BCBF-B91F0CFCD6BA": {
+          "name": "ui \/ button \/ primary \/ default"
+        },
+        "F209E10A-11CB-4D42-8B00-BE52A07CA7A4": {
+          "name": "ui \/ banners \/ yellow"
+        },
+        "2A5A11E3-5656-49FF-8D9B-429E87FCAB0D": {
+          "name": "ui \/ button \/ primary \/ hover"
+        }
+      }
+    },
+    "8A1018F8-3BF6-4DDD-A7F0-7DEEC0431BA3": {
+      "name": "colors",
+      "artboards": {
+        "8F9CB872-256C-47AE-86FF-C44B7067C7A2": {
+          "name": "colors"
+        }
+      }
+    },
+    "D802EA4B-2F06-4F55-B0CE-1F7EE6FF7B9E": {
+      "name": "input",
+      "artboards": {
+        "78AB2D2E-1F17-4A74-B7A2-0DF7EFE506B9": {
+          "name": "input"
+        }
+      }
+    },
+    "C412F433-D0CC-40E2-86B8-8FC0CB84A568": {
+      "name": "button",
+      "artboards": {
+        "B6D3D898-932B-420C-AFED-A9FE9F4F277F": {
+          "name": "Desktop"
+        }
+      }
+    },
+    "1A897931-1FB1-47B2-9CE2-F838AB8A043A": {
+      "name": "typography",
+      "artboards": {
+        "82D046DE-5CB5-4F48-9678-C56593EB0F8C": {
+          "name": "typography"
+        }
+      }
+    },
+    "B3152E14-482E-4805-BCA7-C314ACF8C355": {
+      "name": "banners",
+      "artboards": {
+        "731B13CD-BB45-4587-A6C5-93FC6AD956DD": {
+          "name": "Desktop HD"
+        }
+      }
+    },
+    "4AB26461-090C-4514-8510-A09FB10B8A8F": {
+      "name": "badges",
+      "artboards": {
+        "17202ABE-47AC-4041-9D05-BA06130B211A": {
+          "name": "badges"
+        }
+      }
+    },
+    "8C97FD0C-ECBC-47A7-B348-76181F83B4C3": {
+      "name": "avatars",
+      "artboards": {
+        "04967E5B-32E7-445D-8EC8-F4733049FD34": {
+          "name": "avatars"
+        }
+      }
+    }
+  },
+  "version": 103,
+  "fonts": ["AvenirNext-Bold", "AvenirNext-DemiBold", "AvenirNext-Medium", "AvenirNext-Regular"],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+    "appVersion": "50.2",
+    "build": 55047,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 103,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.55047"],
+  "appVersion": "50.2",
+  "build": 55047
+}
